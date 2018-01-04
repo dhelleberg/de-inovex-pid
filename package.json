@@ -1,0 +1,18 @@
+{
+  "name": "de-inovex-pid",
+  "version": "1.0.0",
+  "description": "",
+  "cordova": {
+    "id": "de-inovex-pid",
+    "platforms": []
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@gitlab.inovex.de:2424/dhelleberg/de-inovex-pid.git"
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "",
+  "license": "ISC"
+}
